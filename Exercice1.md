@@ -6,13 +6,17 @@ Les deux machines ne sont pas sur le même réseau et le pare feu est activé.
 
 Explique ce que tu as fait et montre le par des copies d'écran
 Désactivation du pare feu:
+
 ![img](https://github.com/shagoi/donnees/blob/main/supp_parefeu.png?raw=true)
+
 
 Modification de l'adresse IP:
 ![img](https://github.com/shagoi/donnees/blob/main/modif_ip.png?raw=true)
 
+
 Copie d'écran d'un ping fonctionnel:
 ![img](https://github.com/shagoi/donnees/blob/main/ping.png?raw=true)
+
 
 
 ### Q.1.3 Modifie la configuration réseau du client pour qu'il soit en DHCP.
